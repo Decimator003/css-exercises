@@ -1,0 +1,19 @@
+#Item4{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd{
+    background-color: #FF7F7F;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.extra{
+    font-size: 24px;
+}
+
+#item2{
+    color: blue;
+    font-size: 36px;
+}
